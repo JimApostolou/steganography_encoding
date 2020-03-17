@@ -7,6 +7,6 @@ convert letters of ascii into symbols
 you need to write the text you want to
 convert in message.txt.The run encoding.py
 to display the symbols and then run reverse.py
-if you to see the reversed message.
+if you want to see the reversed message.
 
 
