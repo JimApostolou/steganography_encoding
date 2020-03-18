@@ -1,4 +1,4 @@
-# Encoding_decoding
+# Encoding decoding
 
 convert letters of ascii into symbols
 
